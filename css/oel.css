@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body, div, span,  h1, h2, h3, h4, h5, h6, p, a, img, strong, sub, sup, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	border:0 none;
+	font-size:100%;
+	margin:0;
+	padding:0;
+}
+ul, ol {
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+}
+	
+html , body{
+	height: 100%;
+width: 100%;
+}
+	
+
+.clear {
+    clear:both;
+    font-size:0;
+    height:0;
+    line-height:0;
+}
+
+.seo {
+    overflow:hidden;
+    text-decoration:none;
+    text-indent:-999px;
+}
+
+
+
+body {
+background: #666 url(/img/bkg.png) repeat 0% 0%;
+color: white;
+font-family: Arial, helvetica;
+font-size: 11px;
+}
+
+.wraper {
+background: transparent url(/img/wraper.png) repeat-y 50% 0%;
+height: 100%;
+width: 100%;
+}
+
+.wraper .header {
+height: auto;
+overflow: hidden;
+padding: 0px;
+width: 900px;
+margin:0px auto;
+}
+
+.wraper .header h1 {
+background: transparent url(/img/logo-img.png) no-repeat 50% 0%;
+_background:transparent;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/logo-img.png',sizingMethod='crop', enabled=true);
+    contentEditable:true;
+height: 76px;
+margin: 50px 0px 25px;
+overflow: hidden;
+width: 166px;
+}
+
+.wraper .header #txt {
+	color: #36618A;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 50px;
+	
+}

@@ -1,0 +1,70 @@
+2013-03-04 11:32:15 URL:http://dev.oelenergia.com/ [12657] -> "dev.oelenergia.com/index.html" [1]
+2013-03-04 11:32:16 URL:http://dev.oelenergia.com/robots.txt [929] -> "dev.oelenergia.com/robots.txt" [1]
+2013-03-04 11:32:16 URL:http://dev.oelenergia.com/favicon.ico [929] -> "dev.oelenergia.com/favicon.ico" [1]
+unlink: No such file or directory
+2013-03-04 11:32:16 URL:http://dev.oelenergia.com/en-GB/home/ [12087] -> "dev.oelenergia.com/en-GB/home/index.html" [1]
+2013-03-04 11:32:16 URL:http://dev.oelenergia.com/pt-PT/home/ [12667] -> "dev.oelenergia.com/pt-PT/home/index.html" [1]
+2013-03-04 11:32:16 URL:http://dev.oelenergia.com/pt-PT/organograma/ [11275] -> "dev.oelenergia.com/pt-PT/organograma/index.html" [1]
+2013-03-04 11:32:16 URL:http://dev.oelenergia.com/pt-PT/mercados/ [13910] -> "dev.oelenergia.com/pt-PT/mercados/index.html" [1]
+2013-03-04 11:32:17 URL:http://dev.oelenergia.com/pt-PT/competencias/Servicos/15/ [13180] -> "dev.oelenergia.com/pt-PT/competencias/Servicos/15/index.html" [1]
+2013-03-04 11:32:17 URL:http://dev.oelenergia.com/pt-PT/competencias/Engenharia-e-Instalacoes/9/ [12064] -> "dev.oelenergia.com/pt-PT/competencias/Engenharia-e-Instalacoes/9/index.html" [1]
+2013-03-04 11:32:17 URL:http://dev.oelenergia.com/pt-PT/competencias/Novas-Tecnologias-de-Informacao-e-Comunicacao/11/ [12289] -> "dev.oelenergia.com/pt-PT/competencias/Novas-Tecnologias-de-Informacao-e-Comunicacao/11/index.html" [1]
+2013-03-04 11:32:17 URL:http://dev.oelenergia.com/pt-PT/competencias/Manutencao-Multitecnica/10/ [12038] -> "dev.oelenergia.com/pt-PT/competencias/Manutencao-Multitecnica/10/index.html" [1]
+2013-03-04 11:32:17 URL:http://dev.oelenergia.com/pt-PT/qualidade/ [12682] -> "dev.oelenergia.com/pt-PT/qualidade/index.html" [1]
+2013-03-04 11:32:18 URL:http://dev.oelenergia.com/pt-PT/obras/Concluidas/12/ [14179] -> "dev.oelenergia.com/pt-PT/obras/Concluidas/12/index.html" [1]
+2013-03-04 11:32:18 URL:http://dev.oelenergia.com/pt-PT/obras/Em-Execucao/13/ [15065] -> "dev.oelenergia.com/pt-PT/obras/Em-Execucao/13/index.html" [1]
+2013-03-04 11:32:18 URL:http://dev.oelenergia.com/pt-PT/contactos/ [12717] -> "dev.oelenergia.com/pt-PT/contactos/index.html" [1]
+unlink: No such file or directory
+unlink: No such file or directory
+unlink: No such file or directory
+unlink: No such file or directory
+unlink: No such file or directory
+unlink: No such file or directory
+unlink: No such file or directory
+2013-03-04 11:32:18 URL:http://dev.oelenergia.com/en-GB/organograma/ [11098] -> "dev.oelenergia.com/en-GB/organograma/index.html" [1]
+2013-03-04 11:32:19 URL:http://dev.oelenergia.com/en-GB/mercados/ [13251] -> "dev.oelenergia.com/en-GB/mercados/index.html" [1]
+2013-03-04 11:32:19 URL:http://dev.oelenergia.com/en-GB/competencias/Servicos/15/ [12585] -> "dev.oelenergia.com/en-GB/competencias/Servicos/15/index.html" [1]
+2013-03-04 11:32:19 URL:http://dev.oelenergia.com/en-GB/competencias/Engenharia-e-Instalacoes/9/ [11728] -> "dev.oelenergia.com/en-GB/competencias/Engenharia-e-Instalacoes/9/index.html" [1]
+2013-03-04 11:32:19 URL:http://dev.oelenergia.com/en-GB/competencias/Novas-Tecnologias-de-Informacao-e-Comunicacao/11/ [11849] -> "dev.oelenergia.com/en-GB/competencias/Novas-Tecnologias-de-Informacao-e-Comunicacao/11/index.html" [1]
+2013-03-04 11:32:19 URL:http://dev.oelenergia.com/en-GB/competencias/Manutencao-Multitecnica/10/ [11695] -> "dev.oelenergia.com/en-GB/competencias/Manutencao-Multitecnica/10/index.html" [1]
+2013-03-04 11:32:20 URL:http://dev.oelenergia.com/en-GB/qualidade/ [12218] -> "dev.oelenergia.com/en-GB/qualidade/index.html" [1]
+2013-03-04 11:32:20 URL:http://dev.oelenergia.com/en-GB/obras/Concluidas/12/ [13945] -> "dev.oelenergia.com/en-GB/obras/Concluidas/12/index.html" [1]
+2013-03-04 11:32:20 URL:http://dev.oelenergia.com/en-GB/obras/Em-Execucao/13/ [14584] -> "dev.oelenergia.com/en-GB/obras/Em-Execucao/13/index.html" [1]
+2013-03-04 11:32:20 URL:http://dev.oelenergia.com/en-GB/contactos/ [12518] -> "dev.oelenergia.com/en-GB/contactos/index.html" [1]
+unlink: No such file or directory
+unlink: No such file or directory
+unlink: No such file or directory
+unlink: No such file or directory
+2013-03-04 11:32:21 URL:http://dev.oelenergia.com/pt-PT/competencias/Novas-Tecnologias-de-Informacao-e-Comunicacao/11 [12289] -> "dev.oelenergia.com/pt-PT/competencias/Novas-Tecnologias-de-Informacao-e-Comunicacao/11.1" [1]
+unlink: No such file or directory
+unlink: No such file or directory
+unlink: No such file or directory
+unlink: No such file or directory
+2013-03-04 11:32:21 URL:http://dev.oelenergia.com/pt-PT/obras/Concluidas/12 [14179] -> "dev.oelenergia.com/pt-PT/obras/Concluidas/12.1" [1]
+2013-03-04 11:32:21 URL:http://dev.oelenergia.com/pt-PT/obras/Concluidas/12/10 [14912] -> "dev.oelenergia.com/pt-PT/obras/Concluidas/12/10" [1]
+2013-03-04 11:32:21 URL:http://dev.oelenergia.com/pt-PT/obras/Concluidas/12/20 [12167] -> "dev.oelenergia.com/pt-PT/obras/Concluidas/12/20" [1]
+2013-03-04 11:32:22 URL:http://dev.oelenergia.com/static/images/layout/btn-rght-one-on.jpg [929] -> "dev.oelenergia.com/static/images/layout/btn-rght-one-on.jpg" [1]
+2013-03-04 11:32:22 URL:http://dev.oelenergia.com/static/images/layout/btn-rght-two-on.jpg [929] -> "dev.oelenergia.com/static/images/layout/btn-rght-two-on.jpg" [1]
+2013-03-04 11:32:22 URL:http://dev.oelenergia.com/pt-PT/obras/Em-Execucao/13/10 [12235] -> "dev.oelenergia.com/pt-PT/obras/Em-Execucao/13/10" [1]
+unlink: No such file or directory
+2013-03-04 11:32:22 URL:http://dev.oelenergia.com/en-GB/competencias/Novas-Tecnologias-de-Informacao-e-Comunicacao/11 [11849] -> "dev.oelenergia.com/en-GB/competencias/Novas-Tecnologias-de-Informacao-e-Comunicacao/11.1" [1]
+2013-03-04 11:32:22 URL:http://dev.oelenergia.com/en-GB/obras/Concluidas/12 [13945] -> "dev.oelenergia.com/en-GB/obras/Concluidas/12.1" [1]
+2013-03-04 11:32:23 URL:http://dev.oelenergia.com/en-GB/obras/Concluidas/12/10 [14307] -> "dev.oelenergia.com/en-GB/obras/Concluidas/12/10" [1]
+2013-03-04 11:32:23 URL:http://dev.oelenergia.com/en-GB/obras/Concluidas/12/20 [11959] -> "dev.oelenergia.com/en-GB/obras/Concluidas/12/20" [1]
+2013-03-04 11:32:23 URL:http://dev.oelenergia.com/en-GB/obras/Em-Execucao/13/10 [11955] -> "dev.oelenergia.com/en-GB/obras/Em-Execucao/13/10" [1]
+2013-03-04 11:32:23 URL:http://dev.oelenergia.com/pt-PT/competencias/Novas-Tecnologias-de-Informacao-e-Comunicacao/11 [12289] -> "dev.oelenergia.com/pt-PT/competencias/Novas-Tecnologias-de-Informacao-e-Comunicacao/11.1" [1]
+2013-03-04 11:32:23 URL:http://dev.oelenergia.com/pt-PT/obras/Concluidas/12 [14179] -> "dev.oelenergia.com/pt-PT/obras/Concluidas/12.1" [1]
+2013-03-04 11:32:24 URL:http://dev.oelenergia.com/en-GB/obras/Concluidas/12/10/ [14307] -> "dev.oelenergia.com/en-GB/obras/Concluidas/12/10/index.html" [1]
+2013-03-04 11:32:24 URL:http://dev.oelenergia.com/pt-PT/obras/Concluidas/12/10/ [14912] -> "dev.oelenergia.com/pt-PT/obras/Concluidas/12/10/index.html" [1]
+2013-03-04 11:32:24 URL:http://dev.oelenergia.com/static/images/layout/btn-left-two-on.jpg [929] -> "dev.oelenergia.com/static/images/layout/btn-left-two-on.jpg" [1]
+2013-03-04 11:32:24 URL:http://dev.oelenergia.com/static/images/layout/btn-left-one-on.jpg [929] -> "dev.oelenergia.com/static/images/layout/btn-left-one-on.jpg" [1]
+2013-03-04 11:32:24 URL:http://dev.oelenergia.com/en-GB/obras/Concluidas/12/20/ [11959] -> "dev.oelenergia.com/en-GB/obras/Concluidas/12/20/index.html" [1]
+2013-03-04 11:32:25 URL:http://dev.oelenergia.com/pt-PT/obras/Concluidas/12/20/ [12167/12167] -> "dev.oelenergia.com/pt-PT/obras/Concluidas/12/20/index.html" [1]
+2013-03-04 11:32:25 URL:http://dev.oelenergia.com/en-GB/obras/Em-Execucao/13/10/ [11955] -> "dev.oelenergia.com/en-GB/obras/Em-Execucao/13/10/index.html" [1]
+2013-03-04 11:32:25 URL:http://dev.oelenergia.com/pt-PT/obras/Em-Execucao/13/10/ [12235] -> "dev.oelenergia.com/pt-PT/obras/Em-Execucao/13/10/index.html" [1]
+2013-03-04 11:32:25 URL:http://dev.oelenergia.com/en-GB/competencias/Novas-Tecnologias-de-Informacao-e-Comunicacao/11 [11849] -> "dev.oelenergia.com/en-GB/competencias/Novas-Tecnologias-de-Informacao-e-Comunicacao/11.1" [1]
+2013-03-04 11:32:25 URL:http://dev.oelenergia.com/en-GB/obras/Concluidas/12 [13945] -> "dev.oelenergia.com/en-GB/obras/Concluidas/12.1" [1]
+Found no broken links.
+
+FINISHED --2013-03-04 11:32:25--
+Downloaded: 49 files, 544K in 0s (1038330 GB/s)

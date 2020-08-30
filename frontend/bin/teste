@@ -1,0 +1,10 @@
+#!/usr/bin/env php
+<?php
+
+require_once '../tools/lib/spark/spark_source.php';
+require_once '../tools/lib/spark/spark_cli.php';
+
+$cmd = $argc > 1 ? $argv[1] : null;
+$args = $argc > 2 ? array_slice($argv, 2) : array();
+
+echo $cmd."oll \n"; 

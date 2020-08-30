@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /gc/
+Sitemap: http://oelenergia.com/sitemap.xml

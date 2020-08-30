@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+
+php /home/oelenerg/www/dev.oelenergia.com/index.php turnminify css

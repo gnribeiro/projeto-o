@@ -1,0 +1,7 @@
+#!/usr/bin/sh
+#php teste $1
+echo "tem $1"
+
+if [ $1 ]; then
+      echo "Sorry, we had a problem there!"
+fi
